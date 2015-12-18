@@ -1,5 +1,5 @@
-//Para compilar o programa, use o comando no Terminal do Linux : gcc tp2ex1.c -o tp2ex1
-//Para executar o programa, use o comando no Terminal do Linux : ./tp2ex1
+//Para compilar o programa, use o comando no Terminal do Linux : gcc number-inverser.c -o number-inverser
+//Para executar o programa, use o comando no Terminal do Linux : ./number-inverser
 
 #include <stdio.h>
 #include <stdlib.h>
