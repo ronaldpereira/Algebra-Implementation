@@ -1,4 +1,4 @@
-# Para interpretar e executar o programa, basta digitar no Terminal do Linux : python tp1.py
+# Para interpretar e executar o programa, basta digitar no Terminal do Linux : python fermat.py
 # -*- coding: utf-8 -*-
 
 import math
